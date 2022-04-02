@@ -1,12 +1,10 @@
-import express, { Response, Request } from 'express'
-
+import express from 'express'
+import routes from './routes'
 
 const app = express()
 
+app.use(routes)
 
-app.get('/', (request: Request, response: Response) => {
-    response.send('Wello Word')
-})
 
 const PORT = 3333
 
