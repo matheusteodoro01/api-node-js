@@ -7,7 +7,7 @@ const app = express()
 app.use(express.json())
 app.use(routes)
 
-mongoose.connect('mongodb+srv://matheus:Ma16194830@apinode.dzkxh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
+mongoose.connect('SUA CONEXÃO AQUI')
 
     .then((data) => {
         console.log('MongoDB Connection Succeeded', data.version);
