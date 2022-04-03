@@ -12,7 +12,7 @@
   <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-##:page_facing_up-: Descrição
+## :page_facing_up: Descrição
 
 Projeto desenvolvido no video do meu canal! <a href="https://www.youtube.com/channel/UCj9lHSHFW1eEAW8RDwXfXzA">Kit Tech </a>
 
