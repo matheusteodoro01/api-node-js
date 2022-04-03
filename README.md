@@ -42,9 +42,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 ### Banco de Dados
 
-- [Typeorm](https://typeorm.io/#/)
-- [Postgres](https://www.postgresql.org/)
-- [Redis](https://redis.io/)
+- [Mongo DB](https://www.mongodb.com/atlas/database)
 
 
 ## :clipboard: Funcionalidades
