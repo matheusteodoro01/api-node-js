@@ -36,9 +36,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 - [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/)
-- [Ts Node Dev(https://github.com/microsoft/tsyringe)
+- [Ts Node Dev](https://www.npmjs.com/package/ts-node-dev)
 - [Express](https://expressjs.com/pt-br/)
-- [Mongoose](https://github.com/arb/celebrate)
+- [Mongoose](https://mongoosejs.com/)
 
 ### Banco de Dados
 
@@ -46,16 +46,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [Postgres](https://www.postgresql.org/)
 - [Redis](https://redis.io/)
 
-### Testes
-
-- [Jest](https://jestjs.io/)
 
 ## :clipboard: Funcionalidades
 
-- [x] Listar todos os carros.
-
+  - [x] Listar todos os carros.
   - [x] Criar carros.
-  - [x] Lista carro por id.
+  - [x] Listar carro por id.
   - [x] Editar carro por id .
   - [x] Deletar carro por id.
 
@@ -71,10 +67,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório;
-$ git clone https://github.com/matheusteodoro01/api-nodejs.git
+$ git clone https://github.com/matheusteodoro01/api-node-js.git
 
 # Vá para a pasta onde esta o app;
-$ cd api-nodejs
+$ cd api-node-js
 
 # Instale as dependências;
 $ yarn ou npm install
