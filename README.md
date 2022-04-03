@@ -13,7 +13,7 @@
 
 ## :page_facing_up: Descrição
 
-Projeto desenvolvido no video do meu canal! <a href="https://www.youtube.com/channel/UCj9lHSHFW1eEAW8RDwXfXzA">Kit Tech </a>
+Projeto desenvolvido druante video do meu canal! <a href="https://www.youtube.com/channel/UCj9lHSHFW1eEAW8RDwXfXzA">Se inscreva no meu Canal!</a>
 
 Jubscleiton está lançando uma nova plataforma de vendas de carro. Nesta
 plataforma, desejamos realizar o cadastro de novos carros para os clientes
@@ -36,9 +36,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 - [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/)
-- [Tsyringe](https://github.com/microsoft/tsyringe)
+- [Ts Node Dev(https://github.com/microsoft/tsyringe)
 - [Express](https://expressjs.com/pt-br/)
-- [Celebrate](https://github.com/arb/celebrate)
+- [Mongoose](https://github.com/arb/celebrate)
 
 ### Banco de Dados
 
